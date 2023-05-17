@@ -1,0 +1,15 @@
+.\sipaimages\8\1.jpg	30.24		
+.\sipaimages\8\2.jpg	28.69		
+.\sipaimages\8\3.jpg	28.56		
+.\sipaimages\8\4.jpg	28.68		
+.\sipaimages\8\43178_20220517100916.jpg	28.68		(partial g)
+.\sipaimages\8\43178_20220517100930.jpg	28.67		
+.\sipaimages\8\43178_20220517100957.jpg	28.68 g		
+.\sipaimages\8\43181_20220517101047.jpg	28.66		
+.\sipaimages\8\43347_20220517130953.jpg	30.24		
+.\sipaimages\8\43347_20220517131028.jpg	30.24		
+.\sipaimages\8\43350_20220517131058.jpg	30.24		
+.\sipaimages\8\43356_20220517131147.jpg	30.24		
+.\sipaimages\8\43359_20220517131209.jpg	34.51		
+.\sipaimages\8\5.jpg	30.24		
+.\sipaimages\8\7.jpg	30.23		

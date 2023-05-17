@@ -1,0 +1,11 @@
+image_file,thresh_ssd_equal_count,thresh_ssd_not_equal_count,thresh_eng_equal_count,thresh_eng_not_equal_count,closing_ssd_equal_count,closing_ssd_not_equal_count,closing_eng_equal_count,closing_eng_not_equal_count,mro_ssd_equal_count,mro_ssd_not_equal_count,mro_eng_equal_count,mro_eng_not_equal_count
+.\\sipaimages\\4\\1.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\10.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\2.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\3.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\4.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\5.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\6.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\7.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\8.jpg,0,600,0,600,0,600,0,600,0,600,0,600
+.\\sipaimages\\4\\9.jpg,0,600,0,600,0,600,0,600,0,600,0,600

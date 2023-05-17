@@ -1,0 +1,26 @@
+.\sipaimages\5\10.jpg	10.51		
+.\sipaimages\5\11.jpg	10.51		
+.\sipaimages\5\12.jpg	10.51		
+.\sipaimages\5\13.jpg	10.46		
+.\sipaimages\5\14.jpg	10.46		
+.\sipaimages\5\15.jpg	10.69		
+.\sipaimages\5\16.jpg	10.14		
+.\sipaimages\5\17.jpg	10.23		
+.\sipaimages\5\18.jpg	-19.53		
+.\sipaimages\5\19.jpg	-18.24		
+.\sipaimages\5\2.jpg	-7.94		
+.\sipaimages\5\20.jpg	-20.22		
+.\sipaimages\5\21.jpg	-18.43		
+.\sipaimages\5\22.jpg	-20.07		
+.\sipaimages\5\23.jpg	8.3		
+.\sipaimages\5\24.jpg	179.32		(partial last digit - suspected 2)
+.\sipaimages\5\25.jpg	179.32		
+.\sipaimages\5\26.jpg	179.26		
+.\sipaimages\5\27.jpg	179.26		
+.\sipaimages\5\3.jpg	10.63		
+.\sipaimages\5\4.jpg	10.63		
+.\sipaimages\5\5.jpg	10.63		
+.\sipaimages\5\6.jpg	10.63		
+.\sipaimages\5\7.jpg	9.30		
+.\sipaimages\5\8.jpg	9.30		
+.\sipaimages\5\9.jpg	6.85		
