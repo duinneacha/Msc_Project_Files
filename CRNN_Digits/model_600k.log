@@ -1,0 +1,298 @@
+
+
+1/1 [==============================] - 0s 22ms/step
+Predicted digit: 1
+sorted_indices: [1 2 7 3 4 8 0 6 9 5]
+top_n_indices: [1 2]
+top_n_probabilities: [9.999355e-01 6.242261e-05]
+
+./cropped_images/9\S09_F01_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [9, 9, 7, 7]
+Predicted number: 9977
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F02_Cropped.png
+
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 14ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 23ms/step
+Predicted digits: [9, 9, 9, 0, 9]
+Predicted number: 99909
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 3 is different: 7 (label) vs 9 (predicted)
+Digit 4 is different: 7 (label) vs 0 (predicted)
+***************************************************************
+./cropped_images/9\S09_F03_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [1, 0, 0, 0, 8]
+Predicted number: 10008
+Digit Label: 1000.6
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 5 is different: 6 (label) vs 8 (predicted)
+***************************************************************
+./cropped_images/9\S09_F04_Cropped.png
+
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 19ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [9, 9, 9, 3]
+Predicted number: 9993
+Digit Label: 999.3
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F05_Cropped.png
+
+1/1 [==============================] - 0s 20ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+Predicted digits: [1, 0, 0, 4, 5]
+Predicted number: 10045
+Digit Label: 1004.5
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F06_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [1, 0, 0, 4, 5]
+Predicted number: 10045
+Digit Label: 1004.5
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F07_Cropped.png
+
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [1, 0, 3, 6, 5]
+Predicted number: 10365
+Digit Label: 1036.5
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F08_Cropped.png
+
+1/1 [==============================] - 0s 19ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [1, 0, 0, 0, 8]
+Predicted number: 10008
+Digit Label: 1000.6
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 5 is different: 6 (label) vs 8 (predicted)
+***************************************************************
+./cropped_images/9\S09_F09_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [9, 9, 7, 7]
+Predicted number: 9977
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F10_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [1, 0, 2, 8, 1]
+Predicted number: 10281
+Digit Label: 1026.1
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 4 is different: 6 (label) vs 8 (predicted)
+***************************************************************
+./cropped_images/9\S09_F11a_Cropped.png
+
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 14ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [4, 1, 0, 2, 0]
+Predicted number: 41020
+Digit Label: 970.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 1 is different: 9 (label) vs 4 (predicted)
+Digit 2 is different: 7 (label) vs 1 (predicted)
+Digit 4 is different: 0 (label) vs 2 (predicted)
+***************************************************************
+./cropped_images/9\S09_F11b_Cropped.png
+
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 16ms/step
+Predicted digits: [9, 9, 1, 1]
+Predicted number: 9911
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 3 is different: 7 (label) vs 1 (predicted)
+Digit 4 is different: 7 (label) vs 1 (predicted)
+***************************************************************
+./cropped_images/9\S09_F12_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 19ms/step
+1/1 [==============================] - 0s 18ms/step
+Predicted digits: [1, 0, 0, 1, 0]
+Predicted number: 10010
+Digit Label: 1001.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F13_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [9, 1, 2, 8]
+Predicted number: 9128
+Digit Label: 972.8
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 2 is different: 7 (label) vs 1 (predicted)
+***************************************************************
+./cropped_images/9\S09_F14_Cropped.png
+
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 19ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 16ms/step
+Predicted digits: [8, 4, 2, 0, 2, 0]
+Predicted number: 842020
+Digit Label: 970.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 1 is different: 9 (label) vs 8 (predicted)
+Digit 2 is different: 7 (label) vs 4 (predicted)
+Digit 3 is different: 0 (label) vs 2 (predicted)
+***************************************************************
+./cropped_images/9\S09_F15_Cropped.png
+
+1/1 [==============================] - 0s 18ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 17ms/step
+Predicted digits: [9, 9, 7, 1]
+Predicted number: 9971
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 4 is different: 7 (label) vs 1 (predicted)
+***************************************************************
+./cropped_images/9\S09_F16_Cropped.png
+
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [8, 1, 0, 0]
+Predicted number: 8100
+Digit Label: 970.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 1 is different: 9 (label) vs 8 (predicted)
+Digit 2 is different: 7 (label) vs 1 (predicted)
+***************************************************************
+./cropped_images/9\S09_F17_Cropped.png
+
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 16ms/step
+Predicted digits: [9, 9, 7, 7]
+Predicted number: 9977
+Digit Label: 997.7
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
+./cropped_images/9\S09_F18_Cropped.png
+
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 19ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [9, 1, 0, 0]
+Predicted number: 9100
+Digit Label: 970.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are different.
+Digit 2 is different: 7 (label) vs 1 (predicted)
+***************************************************************
+./cropped_images/9\S09_F19_Cropped.png
+
+1/1 [==============================] - 0s 15ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 17ms/step
+1/1 [==============================] - 0s 16ms/step
+1/1 [==============================] - 0s 15ms/step
+Predicted digits: [1, 0, 3, 4, 0]
+Predicted number: 10340
+Digit Label: 1034.0
+digit_label_type: <class 'float'>
+Predicted number type: <class 'int'>
+The values are the same.
+***************************************************************
